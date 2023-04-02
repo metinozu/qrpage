@@ -1,0 +1,41 @@
+body {
+    background-color: lightblue;
+
+}
+
+.image {
+    border-radius: 30px;
+    width: 360px;
+    height: 360px;
+    position: relative;
+    margin: auto;
+    padding: 10px;
+}
+
+.bg {
+    width: 380px;
+    height: 570px;
+    background-color: white;
+    position: relative;
+    margin: auto;
+    border-radius: 30px;
+}
+
+.div {
+    position: relative;
+    margin: auto;
+}
+
+.h1 {
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    font-weight: 700;
+}
+
+.h2 {
+    color: gray;
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+}
